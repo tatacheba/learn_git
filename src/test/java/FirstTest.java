@@ -4,6 +4,8 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.UUID;
+import java.util.concurrent.BlockingDeque;
+import java.util.concurrent.Callable;
 
 public class FirstTest {
     @Test
@@ -12,6 +14,7 @@ public class FirstTest {
         LocalDateTime ppppppp = parseDate.atStartOfDay();
         int i = hashCode();
         Class<? extends FirstTest> hgf = getClass();
+        LocalDate parse = LocalDate.parse("IIIII");
     }
 
     @BeforeEach
