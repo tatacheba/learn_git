@@ -2,3 +2,8 @@
 /.gradle/
 /.idea/
 /gradle/
+.gitignore
+gradlew
+gradlew.bat
+settings.gradle
+untitled.iml
