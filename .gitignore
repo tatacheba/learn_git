@@ -1,10 +1,12 @@
 /build
 /.gradle/
 /.idea/
-/gradle/
+/gradle/*
 .gitignore
 gradlew
 gradlew.bat
 settings.gradle
 untitled.iml
+*.gradle
+
 
